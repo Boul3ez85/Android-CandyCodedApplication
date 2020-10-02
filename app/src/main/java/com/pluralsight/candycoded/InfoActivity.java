@@ -7,7 +7,7 @@ import android.widget.ImageView;
 
 import com.squareup.picasso.Picasso;
 
-public class InfoActivity extends AppCompatActivity {
+public class InfoActivity<createMapIntent> extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,9 +23,8 @@ public class InfoActivity extends AppCompatActivity {
 
     }
 
-    // ***
-    // TODO - Task 2 - Launch the Google Maps Activity
-    // ***
+    @Override
+    createMapIntent()
 
     // ***
     // TODO - Task 3 - Launch the Phone Activity
