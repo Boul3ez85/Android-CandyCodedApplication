@@ -12,6 +12,8 @@
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,42 +182,54 @@
       <option name="project" value="LOCAL" />
       <updated>1601634199737</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="create mapIntent">
+      <created>1602242024141</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602242024141</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix test 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix test 1" />
+    <MESSAGE value="create mapIntent" />
+    <option name="LAST_COMMIT_MESSAGE" value="create mapIntent" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="173" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1601634196372">
+    <state x="553" y="229" width="291" height="335" key="AndroidCreateXmlResourceDialog" timestamp="1602242798289">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
-    <state x="173" y="27" width="1050" height="741" key="CommitChangelistDialog2/41.27.1325.741@41.27.1325.741" timestamp="1601634196372" />
-    <state width="1279" height="174" key="GridCell.Tab.0.bottom" timestamp="1602241891017">
+    <state x="553" y="229" width="291" height="335" key="AndroidCreateXmlResourceDialog/41.27.1325.741@41.27.1325.741" timestamp="1602242798289" />
+    <state x="199" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1602242022942">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
-    <state width="1279" height="174" key="GridCell.Tab.0.bottom/41.27.1325.741@41.27.1325.741" timestamp="1602241891017" />
-    <state width="1279" height="174" key="GridCell.Tab.0.center" timestamp="1602241891016">
+    <state x="199" y="27" width="1050" height="741" key="CommitChangelistDialog2/41.27.1325.741@41.27.1325.741" timestamp="1602242022942" />
+    <state width="1279" height="174" key="GridCell.Tab.0.bottom" timestamp="1602242856263">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
-    <state width="1279" height="174" key="GridCell.Tab.0.center/41.27.1325.741@41.27.1325.741" timestamp="1602241891016" />
-    <state width="1279" height="174" key="GridCell.Tab.0.left" timestamp="1602241891015">
+    <state width="1279" height="174" key="GridCell.Tab.0.bottom/41.27.1325.741@41.27.1325.741" timestamp="1602242856263" />
+    <state width="1279" height="174" key="GridCell.Tab.0.center" timestamp="1602242856262">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
-    <state width="1279" height="174" key="GridCell.Tab.0.left/41.27.1325.741@41.27.1325.741" timestamp="1602241891015" />
-    <state width="1279" height="174" key="GridCell.Tab.0.right" timestamp="1602241891016">
+    <state width="1279" height="174" key="GridCell.Tab.0.center/41.27.1325.741@41.27.1325.741" timestamp="1602242856262" />
+    <state width="1279" height="174" key="GridCell.Tab.0.left" timestamp="1602242856262">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
-    <state width="1279" height="174" key="GridCell.Tab.0.right/41.27.1325.741@41.27.1325.741" timestamp="1602241891016" />
+    <state width="1279" height="174" key="GridCell.Tab.0.left/41.27.1325.741@41.27.1325.741" timestamp="1602242856262" />
+    <state width="1279" height="174" key="GridCell.Tab.0.right" timestamp="1602242856263">
+      <screen x="41" y="27" width="1325" height="741" />
+    </state>
+    <state width="1279" height="174" key="GridCell.Tab.0.right/41.27.1325.741@41.27.1325.741" timestamp="1602242856263" />
     <state x="192" y="31" key="SettingsEditor" timestamp="1601628237029">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
     <state x="192" y="31" key="SettingsEditor/41.27.1325.741@41.27.1325.741" timestamp="1601628237029" />
-    <state x="298" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1601634250459">
+    <state x="298" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1602242037996">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
-    <state x="298" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/41.27.1325.741@41.27.1325.741" timestamp="1601634250459" />
+    <state x="298" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/41.27.1325.741@41.27.1325.741" timestamp="1602242037996" />
     <state x="141" y="125" width="1125" height="543" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601628133875">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
