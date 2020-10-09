@@ -10,13 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,36 +173,56 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="fix test 1">
+      <created>1601634199711</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601634199737</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix test 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix test 1" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1279" height="174" key="GridCell.Tab.0.bottom" timestamp="1601632143362">
+    <state x="173" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1601634196372">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
-    <state width="1279" height="174" key="GridCell.Tab.0.bottom/41.27.1325.741@41.27.1325.741" timestamp="1601632143362" />
-    <state width="1279" height="174" key="GridCell.Tab.0.center" timestamp="1601632143361">
+    <state x="173" y="27" width="1050" height="741" key="CommitChangelistDialog2/41.27.1325.741@41.27.1325.741" timestamp="1601634196372" />
+    <state width="1279" height="174" key="GridCell.Tab.0.bottom" timestamp="1602241891017">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
-    <state width="1279" height="174" key="GridCell.Tab.0.center/41.27.1325.741@41.27.1325.741" timestamp="1601632143361" />
-    <state width="1279" height="174" key="GridCell.Tab.0.left" timestamp="1601632143361">
+    <state width="1279" height="174" key="GridCell.Tab.0.bottom/41.27.1325.741@41.27.1325.741" timestamp="1602241891017" />
+    <state width="1279" height="174" key="GridCell.Tab.0.center" timestamp="1602241891016">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
-    <state width="1279" height="174" key="GridCell.Tab.0.left/41.27.1325.741@41.27.1325.741" timestamp="1601632143361" />
-    <state width="1279" height="174" key="GridCell.Tab.0.right" timestamp="1601632143361">
+    <state width="1279" height="174" key="GridCell.Tab.0.center/41.27.1325.741@41.27.1325.741" timestamp="1602241891016" />
+    <state width="1279" height="174" key="GridCell.Tab.0.left" timestamp="1602241891015">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
-    <state width="1279" height="174" key="GridCell.Tab.0.right/41.27.1325.741@41.27.1325.741" timestamp="1601632143361" />
+    <state width="1279" height="174" key="GridCell.Tab.0.left/41.27.1325.741@41.27.1325.741" timestamp="1602241891015" />
+    <state width="1279" height="174" key="GridCell.Tab.0.right" timestamp="1602241891016">
+      <screen x="41" y="27" width="1325" height="741" />
+    </state>
+    <state width="1279" height="174" key="GridCell.Tab.0.right/41.27.1325.741@41.27.1325.741" timestamp="1602241891016" />
     <state x="192" y="31" key="SettingsEditor" timestamp="1601628237029">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
     <state x="192" y="31" key="SettingsEditor/41.27.1325.741@41.27.1325.741" timestamp="1601628237029" />
+    <state x="298" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1601634250459">
+      <screen x="41" y="27" width="1325" height="741" />
+    </state>
+    <state x="298" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/41.27.1325.741@41.27.1325.741" timestamp="1601634250459" />
     <state x="141" y="125" width="1125" height="543" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601628133875">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
     <state x="141" y="125" width="1125" height="543" key="com.android.tools.idea.avdmanager.AvdListDialog/41.27.1325.741@41.27.1325.741" timestamp="1601628133875" />
-    <state x="359" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1601628060189">
+    <state x="359" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1602230477807">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
-    <state x="359" y="224" key="com.intellij.ide.util.TipDialog/41.27.1325.741@41.27.1325.741" timestamp="1601628060189" />
+    <state x="359" y="224" key="com.intellij.ide.util.TipDialog/41.27.1325.741@41.27.1325.741" timestamp="1602230477807" />
   </component>
 </project>
